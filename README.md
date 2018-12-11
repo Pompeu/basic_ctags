@@ -1,2 +1,2 @@
 # basic_ctags
-Simple files for confing vim and terminal
+Simple files for config vim and terminal
